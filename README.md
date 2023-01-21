@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 I`m Gauri Patil
+
+🔭 I’m currently working on Front end technologies
+
+🌱 I’m currently learning Java
 
 <!--
 **gauripatil/gauripatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
