@@ -58,6 +58,8 @@ I love the to explore new technologies developing interesting web apps. I love t
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauripatil&layout=compact)](https://github.com/gauripatil)
 
+[![Visitors](https://visitor-badge.glitch.me/badge?page_id=gauripatil.gauripatil)](https://github.com/gauripatil)
+
 
 
 <!--
