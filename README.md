@@ -9,7 +9,7 @@ Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">
 I'm a Full Stack Web Developer 💻!
 </h2> 
 
-I love the to explore new technologies developing interesting web apps. I love to travel & read. 
+I love to explore new technologies developing interesting web apps. I love to travel & read. 
 
 ### 🤝 Connect with me:
 
