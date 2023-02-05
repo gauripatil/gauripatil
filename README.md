@@ -2,7 +2,7 @@
 
 
 <h3 align="center">
-Hi there, I'm <a href="https://www.yushi.dev/" target="_blank" rel="noreferrer">Gauri Patil</a> 👋
+Hi there, I'm <a href="https://www.linkedin.com/in/gauripatiltechie/" target="_blank" rel="noreferrer">Gauri Patil</a> 👋
 </h3>
 
 <h2 align="center">
@@ -57,6 +57,7 @@ I love to explore new technologies developing interesting web apps. I love to tr
 [![Gauri’s github stats](https://github-readme-stats.vercel.app/api?username=gauripatil&show_icons=true)](https://github.com/gauripatil) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauripatil&layout=compact)](https://github.com/gauripatil)
 
 [![Visitors](https://visitor-badge.glitch.me/badge?page_id=gauripatil.gauripatil)](https://github.com/gauripatil)
+
 
 
 
