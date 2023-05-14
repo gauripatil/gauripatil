@@ -10,7 +10,7 @@ I'm a Full Stack Web Developer 💻!
 </h2> 
 
 I love to explore new technologies developing interesting web apps. I love to travel & read. 
-
+<!--
 ### 🤝 Connect with me:
 
 <a href="https://www.linkedin.com/in/gauripatiltechie/"> <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
@@ -23,7 +23,7 @@ I love to explore new technologies developing interesting web apps. I love to tr
 
 - appointment-booking-system
 
-
+-->
 ## 🌱 I'm currently learning
 
 - Java
@@ -56,7 +56,7 @@ I love to explore new technologies developing interesting web apps. I love to tr
 
 [![Gauri’s github stats](https://github-readme-stats.vercel.app/api?username=gauripatil&show_icons=true)](https://github.com/gauripatil) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauripatil&layout=compact)](https://github.com/gauripatil)
 
-[![Visitors](https://visitor-badge.glitch.me/badge?page_id=gauripatil.gauripatil)](https://github.com/gauripatil)
+<!--[![Visitors](https://visitor-badge.glitch.me/badge?page_id=gauripatil.gauripatil)](https://github.com/gauripatil)-->
 
 
 
