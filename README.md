@@ -6,7 +6,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/gauripatiltechie/" target="_b
 </h3>
 
 <h2 align="center">
-I'm a Full Stack Web Developer 💻!
+I'm a Full Stack Web Developer 💻!!
 </h2> 
 
 I love to explore new technologies developing interesting web apps. I love to travel & read. 
