@@ -5,9 +5,9 @@
 Hi there, I'm <a href="https://www.linkedin.com/in/gauripatiltechie/" target="_blank" rel="noreferrer">Gauri Patil</a> 👋
 </h3>
 
-<h2 align="center">
+<h3 align="center">
 I'm a Full Stack Web Developer 💻!!
-</h2> 
+</h3> 
 
 I love to explore new technologies developing interesting web apps. I love to travel & read. 
 <!--
