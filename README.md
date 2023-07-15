@@ -29,6 +29,7 @@ I love to explore new technologies developing interesting web apps. I love to tr
 - Java
 - React
 - Spring boot
+- Typescript
 
 ## 💼 Technical Skills
 
