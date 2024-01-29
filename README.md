@@ -6,7 +6,7 @@ Hi there, I'm <a href="https://www.linkedin.com/in/gauripatiltechie/" target="_b
 </h3>
 
 <h3 align="center">
-I'm a Full Stack Web Developer 💻 
+I am a Full Stack Web Developer  💻 
 </h3> 
 
 I love to explore new technologies developing interesting web apps. I love to travel & read. 
@@ -27,9 +27,8 @@ I love to explore new technologies developing interesting web apps. I love to tr
 -->
 ## 🌱 I'm currently learning
 
-- Java
+- Java, Spring boot 3
 - React
-- Spring boot 3
 - Typescript
 
 ## 💼 Technical Skills
@@ -39,20 +38,15 @@ I love to explore new technologies developing interesting web apps. I love to tr
 ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-
-</br>
-
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-
-</br>
-
 ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
 ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+
 
 
 ## 📈 GitHub Stats 
