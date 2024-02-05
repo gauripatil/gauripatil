@@ -2,7 +2,7 @@
 
 <h1>About Me</h1><p>Hello there! 👋 I'm <a href="https://www.linkedin.com/in/gauripatiltechie/" target="_blank" rel="noreferrer">Gauri Patil</a>, a passionate full-stack engineer with a knack for crafting innovative web solutions. My expertise lies in front-end development with Angular and React, and back-end development with Node.js. While I'm still exploring the vast landscape of Java Spring Boot, I'm excited about the possibilities it brings to the table.</p>
 
-<h2>🔧 Tech Stack</h2><ul><li><strong>Frontend:</strong> Angular, React</li><li><strong>Backend:</strong> Node.js, Java & Spring Boot (in progress)</li></ul>
+<h2>🔧 Tech Stack</h2><ul><li><strong>Frontend:</strong> Angular, React</li><li><strong>Backend:</strong> Node.js, Java and Spring Boot (in progress)</li></ul>
 
 <h2>🚀 What Drives Me</h2><p>I thrive on the challenges that come with creating seamless, user-centric applications. The constant evolution of technology keeps me on my toes, and I love diving into the latest trends and frameworks. Learning is not just a part of my job; it's my passion. I believe in staying curious and continually expanding my skill set.</p>
 
