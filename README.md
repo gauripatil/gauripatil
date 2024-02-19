@@ -1,6 +1,6 @@
 
 
-<h1>About Me</h1><p>Hello there! 👋 I'm <a href="https://www.linkedin.com/in/gauripatiltechie/" target="_blank" rel="noreferrer">Gauri Patil</a>, a passionate full-stack engineer with a knack for crafting innovative web solutions. My expertise lies in front-end development with Angular and React, and back-end development with Node.js. While I'm still exploring the vast landscape of Java and Spring Boot, I'm excited about the possibilities it brings to the table.</p>
+<h1>About Me</h1><p>Hello there!! 👋 I'm <a href="https://www.linkedin.com/in/gauripatiltechie/" target="_blank" rel="noreferrer">Gauri Patil</a>, a passionate full-stack engineer with a knack for crafting innovative web solutions. My expertise lies in front-end development with Angular and React, and back-end development with Node.js. While I'm still exploring the vast landscape of Java and Spring Boot, I'm excited about the possibilities it brings to the table.</p>
 
 <h2>🔧 Tech Stack</h2><ul><li><strong>Frontend:</strong> Angular, React</li><li><strong>Backend:</strong> Node.js, Expressjs, Java and Spring Boot (in progress)</li></ul>
 
