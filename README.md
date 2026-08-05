@@ -181,7 +181,7 @@ I'm always interested in:
 </a>
 </p>
 
-
+<!--
 ---
 
 # 📊 GitHub Stats
@@ -196,3 +196,4 @@ I'm always interested in:
 ⭐ Thanks for visiting my profile!
 
 Let's build something amazing 🚀
+-->
