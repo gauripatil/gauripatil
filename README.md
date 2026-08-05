@@ -181,6 +181,16 @@ I'm always interested in:
 </a>
 </p>
 
+
+
+---
+
+## 🚀 GitHub Activity
+
+![GitHub Streak](https://streak-stats.demolab.com?user=gauripatil)
+
+![Profile Views](https://komarev.com/ghpvc/?username=gauripatil)
+
 <!--
 ---
 
