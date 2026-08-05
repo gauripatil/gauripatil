@@ -1,90 +1,198 @@
+# 👋 Hi, I'm Gauri Patil
 
-
-<h1>About Me</h1><p>Hello there!!! 👋 I'm <a href="https://www.linkedin.com/in/gauripatiltechie/" target="_blank" rel="noreferrer">Gauri Patil</a>, a passionate full-stack engineer with a knack for crafting innovative web solutions. My expertise lies in front-end development with Angular and React, and back-end development with Node.js. While I'm still exploring the vast landscape of Java and Spring Boot, I'm excited about the possibilities it brings to the table.</p>
-
-<h2>🔧 Tech Stack</h2><ul><li><strong>Frontend:</strong> Angular, React</li><li><strong>Backend:</strong> Node.js, Expressjs, Java and Spring Boot (in progress)</li></ul>
-
-<h2>🚀 What Drives Me</h2><p>I thrive on the challenges that come with creating seamless, user-centric applications. The constant evolution of technology keeps me on my toes, and I love diving into the latest trends and frameworks. Learning is not just a part of my job; it's my passion. I believe in staying curious and continually expanding my skill set.</p>
-
-<!--
-<h2>💻 Projects &amp; Contributions</h2><p>I've had the privilege of working on a variety of projects that showcase my commitment to delivering high-quality software solutions. Check out some of my noteworthy contributions on my GitHub repositories.</p><ul><li><a target="_new">Project 1</a>: Brief description of the project and your role.</li><li><a target="_new">Project 2</a>: Brief description of the project and your role.</li><li><a target="_new">Project 3</a>: Brief description of the project and your role.</li></ul>
-
-<h2>📚 Learning Journey</h2><p>Being a perpetual learner, I'm currently delving deeper into Java Spring Boot to enhance my back-end skills. My GitHub is not just a showcase of my work but also a documentation of my learning journey. Expect to see a mix of personal projects and contributions to open-source initiatives.</p>
-
-<h2>🌐 Connect with Me</h2><p>Let's connect and share our experiences in the world of software development. Feel free to reach out to me on <a target="_new">LinkedIn</a> or <a target="_new">Twitter</a>. I'm always up for a good tech discussion or collaboration!</p><p>Thanks for stopping by, and happy coding! 🚀</p><hr><p>Feel free to personalize it further by adding specific details about your projects, experiences, or anything else you'd like to highlight. Additionally, don't forget to replace the placeholders like <code>[Your Name]</code>, <code>link-to-project-1</code>, etc., with your actual information.</p></div>
-
-!-->
-<!--
 <h3 align="center">
-Hi there, I'm <a href="https://www.linkedin.com/in/gauripatiltechie/" target="_blank" rel="noreferrer">Gauri Patil</a> 👋
+Senior Full Stack Engineer | React • Angular • Node.js • AWS
 </h3>
 
-<h3 align="center">
-I am a Full Stack Web Developer  💻 
-</h3> 
+<p align="center">
+Building scalable, accessible, and high-performance web applications with modern JavaScript technologies.
+</p>
 
-I love to explore new technologies developing interesting web apps. I love to travel & read. 
-<!--
-### 🤝 Connect with me:
-
-
-<a href="https://www.linkedin.com/in/gauripatiltechie/"> <img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a>
-<a href="https://www.instagram.com/gauri_patil09/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/instagram.svg" alt="Yu Shi | Instagram" width="21px"/></a>
-
-</br>
-- 💬 If you have any questions/feedback, please do not hesitate to reach out to me!
-
-## 🔭 I'm currently working on
-
-- appointment-booking-system
+<p align="center">
+<a href="https://www.linkedin.com/in/gauripatiltechie/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:gaurip.techie@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
+</a>
+</p>
 
 
-## 🌱 I'm currently learning
+## 🚀 About Me
 
-- Java, Spring boot 3
-- React
-- Typescript
--->
+Hello! 👋 I'm **Gauri Patil**, a Senior Full Stack Engineer with **12+ years of experience** designing and developing enterprise-scale web applications.
 
-## 💼 Technical Skills
+I specialize in building modern applications using the **MEARN stack (MongoDB, Express.js, Angular, React, Node.js)** with strong expertise in:
 
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins-%23F05033.svg?style=for-the-badge&logo=jenkins&logoColor=white)
-![AWS](https://img.shields.io/badge/aws-%231572B6.svg?style=for-the-badge&logo=aws&logoColor=white)
+- ⚛️ React.js & Angular architecture
+- 🟢 Node.js & RESTful API development
+- ☁️ Cloud-native applications using AWS
+- 🏗️ Scalable frontend architecture & micro frontends
+- 🚀 Performance optimization and code quality
+- ♿ Accessibility standards (WCAG, ARIA, Lighthouse)
+
+I enjoy solving complex engineering challenges, mentoring developers, and continuously exploring emerging technologies.
+
+---
+
+# 💻 Technical Skills
+
+## Frontend Development
+
+![React](https://img.shields.io/badge/React.js-20232A?style=for-the-badge&logo=react)
+![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript)
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3)
+![SCSS](https://img.shields.io/badge/SCSS-CC6699?style=for-the-badge&logo=sass)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+
+---
+
+## Backend Development
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js)
+![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express)
+
+- REST APIs
+- GraphQL
+- Microservices
+- WebSockets
+- Authentication & Authorization
 
 
-## 📈 GitHub Stats 
+---
 
-[![Gauri’s github stats](https://github-readme-stats.vercel.app/api?username=gauripatil&show_icons=true)](https://github.com/gauripatil) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gauripatil&layout=compact)](https://github.com/gauripatil)
+## Cloud & DevOps
 
-<!--[![Visitors](https://visitor-badge.glitch.me/badge?page_id=gauripatil.gauripatil)](https://github.com/gauripatil)-->
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions)
+
+- AWS Lambda
+- AWS S3
+- CloudFront
+- EC2
+- Azure App Services
+- CI/CD Pipelines
+- Jenkins
+- Terraform
 
 
+---
+
+## Database & Messaging
+
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis)
+
+- MongoDB
+- PostgreSQL
+- MySQL
+- Firebase
+- Redis
+- Kafka
+- RabbitMQ
 
 
-<!--
-**gauripatil/gauripatil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+# 🏆 Professional Highlights
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+✨ 12+ years of experience building enterprise applications
+
+✨ Developed scalable financial applications for banking domain
+
+✨ Strong experience with React, Angular, Node.js, and cloud technologies
+
+✨ Improved application performance through optimization techniques
+
+✨ Built reusable component libraries and frontend architectures
+
+✨ Passionate about clean code, testing, and engineering excellence
+
+
+---
+
+# 📚 Currently Exploring
+
+🌱 Artificial Intelligence for Software Engineering
+
+🌱 Cloud Architecture & Serverless Applications
+
+🌱 Generative AI Development Tools
+
+🌱 Advanced React & Angular Patterns
+
+
+---
+
+# 🔥 Featured Projects
+
+## 🌦️ Sustainable Multi-Cloud Weather Platform
+
+A cloud-native weather monitoring platform focusing on:
+
+- Multi-cloud deployment
+- Disaster recovery
+- Serverless architecture
+- Real-time data processing
+
+
+**Tech Stack**
+
+React | Angular | Node.js | AWS | Azure | Terraform
+
+
+---
+
+## 🏦 Enterprise Lending Application
+
+Large-scale financial application supporting lending workflows.
+
+**Responsibilities**
+
+- Frontend architecture
+- Angular/React development
+- API integration
+- Performance optimization
+- Accessibility improvements
+
+
+---
+
+# 🤝 Let's Connect
+
+I'm always interested in:
+
+- Full Stack Engineering opportunities
+- Cloud architecture discussions
+- Open-source collaboration
+- AI + Software Engineering innovations
+
+
+<p>
+<a href="https://www.linkedin.com/in/gauripatiltechie/">
+<img src="https://img.shields.io/badge/LinkedIn-Gauri%20Patil-blue?style=for-the-badge&logo=linkedin"/>
+</a>
+</p>
+
+
+---
+
+# 📊 GitHub Stats
+
+![Gauri's GitHub stats](https://github-readme-stats.vercel.app/api?username=gauripatil&show_icons=true&theme=transparent)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=gauripatil&layout=compact)
+
+
+---
+
+⭐ Thanks for visiting my profile!
+
+Let's build something amazing 🚀
